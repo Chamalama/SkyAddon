@@ -1,0 +1,4 @@
+name: SkyAddon
+version: '1.0'
+main: mike.skyAddon.SkyAddon
+api-version: '1.20'
